@@ -1,0 +1,17 @@
+ln -s  folder-documents.png	 folder-documents-symbolic.png;
+ln -s  folder-download.png	 folder-download-symbolic.png;
+ln -s  folder-music.png	 folder-music-symbolic.png;
+ln -s  folder-pictures.png	 folder-pictures-symbolic.png;
+ln -s  folder-publicshare.png	 folder-publicshare-symbolic.png;
+ln -s  folder-remote.png	 folder-remote-symbolic.png;
+ln -s  folder-saved-search.png	 folder-saved-search-symbolic.png;
+ln -s  folder.png	 folder-symbolic.png;
+ln -s  folder-templates.png	 folder-templates-symbolic.png;
+ln -s  folder-videos.png	 folder-videos-symbolic.png;
+ln -s  network-server.png	 network-server-symbolic.png;
+ln -s  network-workgroup.png	 network-workgroup-symbolic.png;
+ln -s  start-here.png	 start-here-symbolic.png;
+ln -s  user-bookmarks.png	 user-bookmarks-symbolic.png;
+ln -s  user-home.png	 user-home-symbolic.png;
+ln -s  user-trash.png	 user-trash-symbolic.png;
+	
