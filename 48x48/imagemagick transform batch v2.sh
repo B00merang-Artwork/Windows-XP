@@ -1,5 +1,5 @@
 #!/bin/bash
-FOLDER=mimetypes
+FOLDER=devices
 IMAGES=aa-New
 
 cd $FOLDER
@@ -10,6 +10,6 @@ mkdir aa-New
 #       BASE=`basename $PHOTO`
        NAME=${PHOTO%'.png'}
 # 	convert "$PHOTO" -colorspace gray "$IMAGES/$BASE"
-    convert "$PHOTO" -resize 24x24 "$IMAGES/$NAME.png"
+    convert "$PHOTO" -resize 16x16 "$IMAGES/$NAME.png"
 #   echo $NAME
    done
