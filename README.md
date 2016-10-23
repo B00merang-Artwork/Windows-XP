@@ -3,5 +3,5 @@
 
 *screenshot*
 
-![winxp-screenshot](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-2016-10-07-16-14-03_1_orig.png)
+![winxp-screenshot](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-2016-10-18-08-37-12_orig.png)
 
