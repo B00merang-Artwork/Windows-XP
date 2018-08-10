@@ -1,5 +1,5 @@
 # WinXP-Icons
-###This icon pack is a remake of the classic YlmfOS theme with some mods for icons to scale right
+### This icon pack is a remake of the classic YlmfOS theme with some mods for icons to scale right
 
 - All icons now scaling allright and some more icons included!
 
